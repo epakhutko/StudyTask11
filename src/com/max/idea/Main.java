@@ -34,7 +34,7 @@ public class Main {
             }
         }
 
-        System.out.println("Array multiplied by 3: ");
+        System.out.println("Array first line multiplied by 3: ");
 
         for (int j=0; j<m; j++) {
             r=Arr[0][j] * 3;
